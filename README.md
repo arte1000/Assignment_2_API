@@ -1,1 +1,2 @@
 # Assignment_2_API
+I added a reference link to the bottom of my website. THis video showed me the basics of what to do but they used fetch insetad of AJAX which I had to alter which took some work and some help with github copilot. I did not use any chatgpt fot this site, just some help with copilot! I had some issues with my css but I think in the end it turned out okay. Over all this assignment was kind of diffiuclt for me but I believe it turned out decent.
